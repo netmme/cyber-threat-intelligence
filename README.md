@@ -12,9 +12,9 @@ https://medium.com/@ncaproni/d%C3%A9buter-sa-veille-cybers%C3%A9curit%C3%A9-7921
 
 https://www.itgovernancepublishing.co.uk/product/the-tao-of-open-source-intelligence
 
-## Lien qui dont je n'ai pas trouvé le flux rss
+https://www.infosecnn.com/information-security/
 
-Voici un site recensant les liens importants pour la cybersécurité : https://www.infosecnn.com/information-security/
+## Lien qui dont je n'ai pas trouvé le flux rss
 
 ### Acteurs Privés
 https://www.dragos.com/resources/?fwp_block_resources_resource_type_filter=post&_block_resources_resource_type_filter=post
